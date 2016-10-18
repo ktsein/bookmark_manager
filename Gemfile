@@ -9,3 +9,4 @@ gem 'coveralls', require: false
 gem 'sinatra'
 gem 'rake'
 gem 'rspec'
+gem 'database_cleaner'
