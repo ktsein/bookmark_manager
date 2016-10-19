@@ -1,9 +1,10 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/ktsein/Desktop/bookmark-manager/app/app.rb": [
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/app/app.rb": [
         1,
         null,
+        1,
         1,
         1,
         null,
@@ -20,6 +21,9 @@
         1,
         1,
         1,
+        1,
+        1,
+        1,
         null,
         null,
         1,
@@ -30,7 +34,29 @@
         1,
         null
       ],
-      "/Users/ktsein/Desktop/bookmark-manager/spec/features/creating_links_spec.rb": [
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/app/data_mapper_setup.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1
+      ],
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/app/models/tag.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/spec/features/creating_links_spec.rb": [
         1,
         null,
         1,
@@ -43,9 +69,10 @@
         null,
         null
       ],
-      "/Users/ktsein/Desktop/bookmark-manager/spec/features/see_links_spec.rb": [
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/spec/features/see_links_spec.rb": [
         1,
         null,
+        1,
         1,
         1,
         1,
@@ -55,7 +82,7 @@
         null,
         null
       ],
-      "/Users/ktsein/Desktop/bookmark-manager/spec/link_spec.rb": [
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/spec/link_spec.rb": [
         1,
         null,
         1,
@@ -66,6 +93,6 @@
         null
       ]
     },
-    "timestamp": 1476883698
+    "timestamp": 1476886013
   }
 }
