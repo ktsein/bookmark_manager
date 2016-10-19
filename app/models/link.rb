@@ -3,11 +3,13 @@ require 'dm-postgres-adapter'
 
 class Link
 
+  DataMapper::Logger.new($stdout, :debug)
+
   include DataMapper::Resource
 
-  property :id,     Serial
+  property :id,      Serial
   property :title,   String
-  property :url, String
+  property :url,     String
 
 end
 

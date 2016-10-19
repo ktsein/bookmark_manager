@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/jamesgardiner/Projects/bookmark_manager/app/app.rb": [
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/app/app.rb": [
         1,
         null,
         1,
@@ -30,7 +30,7 @@
         1,
         null
       ],
-      "/Users/jamesgardiner/Projects/bookmark_manager/spec/features/see_links_spec.rb": [
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/spec/features/see_links_spec.rb": [
         1,
         null,
         1,
@@ -42,7 +42,7 @@
         null,
         null
       ],
-      "/Users/jamesgardiner/Projects/bookmark_manager/spec/link_spec.rb": [
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/spec/link_spec.rb": [
         1,
         null,
         1,
@@ -53,6 +53,6 @@
         null
       ]
     },
-    "timestamp": 1476808072
+    "timestamp": 1476874546
   }
 }
