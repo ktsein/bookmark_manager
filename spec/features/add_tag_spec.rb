@@ -4,6 +4,8 @@ feature 'Adding tags to links' do
   scenario 'Assign tags to a link' do
     DatabaseCleaner.clean
     create_link
-    expect(page).to have_content("Tags")
+    click_button 'Add'
+    link = Link.first
+    expect(link.tags.map(&:name)).to include('Kitten')
   end
 end
