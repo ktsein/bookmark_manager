@@ -4,8 +4,6 @@ require 'dm-postgres-adapter'
 
 class Link
 
-  DataMapper::Logger.new($stdout, :debug)
-
   include DataMapper::Resource
 
   has n, :tags, through: Resource
