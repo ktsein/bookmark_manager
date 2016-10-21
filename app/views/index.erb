@@ -6,17 +6,18 @@
   </head>
   <body>
 
-    <form action="/links" method="get">
+    <h1>Please sign up</h1>
+    <form action="/users" method="post">
       <div>
-        <label for="user_name">Username:</label>
-        <input type="text" id="user_name" name="username" placeholder="enter username" required="true">
+        <label for="user_email">Email:</label>
+        <input type="email" name="email" placeholder="enter email">
       </div>
       <div>
         <label for="p_word">Password:</label>
-        <input type="password" id="p_word" name="password" placeholder="enter password" required="true">
+        <input type="password" name="password" placeholder="enter password">
       </div>
       <div class="button">
-        <input type="submit" value="Sign in">
+        <input type="submit" value="Sign up">
       </div>
     </form>
 
